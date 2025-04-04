@@ -1,4 +1,6 @@
-import { DataFlowDiagram } from '@/components/data-flow/FlowChart';
+"use client";
+
+import { DataFlowDiagram } from '@/components/data-flow/FlowChart_old';
 
 export default function Home() {
   return (
