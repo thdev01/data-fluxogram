@@ -2,7 +2,7 @@
 
 Um visualizador de fluxo de dados para bancos de dados em Next.js, utilizando React Flow e componentes do shadcn/ui.
 
-![Data-Fluxogram](https://api/placeholder/800/400)
+![Data-Fluxogram](./images/DATA-FLUXOGRAM.PNG)
 
 ## Visão Geral
 
